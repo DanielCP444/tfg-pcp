@@ -18,11 +18,11 @@ Este repositorio contiene el código fuente de los experimentos descritos en el 
 ## Verificadores implementados
 
 - `test_t2grupos_solovencedor` — verificador binario por grupos, solo vencedor
-- `test_t2grupos_diferenciaexacta` — verificador con diferencia exacta entre particiones
-- `test_t2grupos_bits_parciales` — verificador con ventana de bits parciales
-- `test3_cantexacta` — verificador con muestreo probabilístico (cantidad exacta)
-- `test3_margencant` — verificador con muestreo probabilístico (margen de bits)
-- `test_4_reciprocidad_logn` — verificador de reciprocidad con subconjuntos de tamaño log n
+- `test_t2grupos_diferenciaexacta` — verificador con cantidad exacta en las particiones
+- `test_t2grupos_bits_parciales` — verificador con cantidad exacta en las particiones (solo los bits más significativos)
+- `test3_cantexacta` — verificador con reciprocidad constante (cantidad exacta)
+- `test3_margencant` — verificador con reciprocidad constante (margen de bits)
+- `test_4_reciprocidad_logn` — verificador de reciprocidad logarítmica
 - `test_4_reciprocidad_logn_margen` — variante con representación por margen
 
 ## Contexto académico
