@@ -27,4 +27,4 @@ Este repositorio contiene el código fuente de los experimentos descritos en el 
 
 ## Contexto académico
 
-Este código acompaña al TFG *Estudio de la viabilidad de cierta técnica para desarrollar un verificador PCP fácil de implementar*, dirigido por Ismael Rodríguez y Fernando Rubio, del Departamento de Sistemas Informáticos y Computación de la UCM.
+Este código acompaña al TFG "Estudio de la viabilidad de cierta técnica para desarrollar un verificador PCP fácil de implementar", dirigido por Ismael Rodríguez y Fernando Rubio, del Departamento de Sistemas Informáticos y Computación de la UCM.
